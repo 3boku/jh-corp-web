@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    background-color: rgba(red, green, blue, 0.4);
+}
+
+h1 {
+    margin-top: -700px;
+    font-size: 128px;
+    margin-left: 400px;
+}
